@@ -32,7 +32,8 @@ go run database.go model.go
 ```
 
 ### 5. 访问数据库
-image.png
+<img width="1160" alt="image" src="https://github.com/user-attachments/assets/0b9aa970-590c-4fa4-978a-3e5716b59c3f" />
+
 
 ## 视频教程
 - **哔哩哔哩**：[https://space.bilibili.com/3546867629558058?spm_id_from=333.337.0.0](https://space.bilibili.com/3546867629558058?spm_id_from=333.337.0.0)
